@@ -1,0 +1,2 @@
+Bundled fonts: Liberation, Poppins, Lora, Carlito, Caladea (all SIL OFL, free to use in apps).
+Also bundled (SIL OFL): Outfit, Bricolage Grotesque, Instrument Sans/Serif, Big Shoulders, Jura, Poiret One, Tektur, Gloock, Boldonse.
